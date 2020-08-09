@@ -1,0 +1,28 @@
+.first-h1 {
+    font-family: monospace;
+     background: white;
+       max-width: 800px;
+        font-size: 2em;
+}
+
+.p1 {
+    background: white;
+     color: rgb(173, 55, 75);
+      max-width: 500px;
+}
+
+.p2 {
+    font-size: 1.6em; font-family: monospace;
+}
+
+.p3 {
+    font-size: 1.5em; font-family: monospace;
+}
+
+.gen {
+    margin-top: 5vh;
+}
+
+.l {
+    background-color: rgb(240, 213, 218);
+}
