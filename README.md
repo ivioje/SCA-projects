@@ -1,1 +1,1 @@
-# sheCode-projects
+# sheCodeAfrica-projects
